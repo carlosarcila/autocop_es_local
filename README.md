@@ -3,4 +3,5 @@ AutoCop en español para ser ejecutado en local. Decarga tweets del Streaming de
 Antes de ejecutar los scrips anteriores de deben entrenar los modelos para generar los archivos .pickle que de guardan en el directorio pickle_algos. Para ello se debe correr classifiers.py que lee los datos de entrenamiento de la carperta short_reviews.
 
 PARA CITAR ESTA HERRAMIENTA:
+
 Arcila, C.; Ortega, F.; Jiménez, J. & Trulleque, S. (2017, en prensa). Análisis supervisado de sentimientos políticos en español: Clasificación en tiempo real de tweets basada en aprendizaje automático.  El Profesional de la Información, 26 (4)
