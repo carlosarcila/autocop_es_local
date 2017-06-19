@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
 #CON ESTE SCRIPT SE GRAFICAN EN TIEMPO REAL LOS SENTIMIENTOS QUE SE LEEN DESDE EL ARCHIVO twitter-out.txt GENERADO CON twitter3.py
 
 import matplotlib.pyplot as plt
