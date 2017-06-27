@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# encoding: utf-8
 #Este Script se conecta al Streaming de Twitter y descarga los tweets PARSEADOS
 #en formato Json que contengan en el texto una palabra -ejemplo "#Podemos"
 #IMPRIME solo las partes del tweet que le pidamos -p.e. "text", "user",,
