@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# encoding: utf-8
 #Este Script se conecta al Streaming de Twitter y descarga los tweets completos
 #en formato Json que contengan en el texto una palabra -ejemplo "#BigData"
 
