@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# encoding: utf-8
 #Este script descarga los tweets con un determinado contenido en el texto del mensaje usando API REST
 
 import tweepy
