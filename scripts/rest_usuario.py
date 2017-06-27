@@ -1,7 +1,7 @@
-#Este script descarga los tweets sin parsear de un usuario determinado usando API REST
-#IMPRIME LOS RESULTADOS A UN ARCHIVO CSV
 #!/usr/bin/env python
 # encoding: utf-8
+#Este script descarga los tweets sin parsear de un usuario determinado usando API REST
+#IMPRIME LOS RESULTADOS A UN ARCHIVO CSV
 
 import tweepy #https://github.com/tweepy/tweepy
 import csv
