@@ -5,3 +5,7 @@ Antes de ejecutar los scrips anteriores de deben entrenar los modelos para gener
 ## Para citar esta herramienta:
 
 Arcila, C.; Ortega, F.; Jiménez, J. & Trulleque, S. (2017). Análisis supervisado de sentimientos políticos en español: Clasificación en tiempo real de tweets basada en aprendizaje automático.  El Profesional de la Información, 26 (4)
+
+## Diapositivas para el curso "Análisis de sentimiento predictivo"
+
+https://www.dropbox.com/sh/e66vz5hdfhhdfbv/AAApnaZkIF6sPHaU-b5BAPf5a?dl=0
