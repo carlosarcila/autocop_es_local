@@ -5,10 +5,10 @@
 import tweepy
 
 #USAR LAS CLAVES QUE SAQUES EN https://apps.twitter.com
-ckey="bWzJx7DkIehLPBLsFuB0Q0HeG"
-csecret="wYk2PgEqDm0b9h5fHJTM4GGeIqyO9epWck7rHheLa615i2CCid"
-atoken="13291482-SeGkyyTUTikUaEM8Q4vnJBHVnsCBR0cz3v6rhMAt1"
-asecret="ZGzaXe68bFwy7hT65Lbpi8WT5lh6cplRUU6FkbEx1IzLz"
+ckey=""
+csecret=""
+atoken=""
+asecret=""
 
 OAUTH_KEYS = {'consumer_key':ckey, 'consumer_secret':csecret,'access_token_key':atoken, 'access_token_secret':asecret}
 auth = tweepy.OAuthHandler(OAUTH_KEYS['consumer_key'], OAUTH_KEYS['consumer_secret'])
